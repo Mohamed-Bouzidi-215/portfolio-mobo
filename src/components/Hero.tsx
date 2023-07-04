@@ -1,7 +1,7 @@
-import Link from 'next/link';
 import React from 'react'
 import  { Cursor, useTypewriter } from "react-simple-typewriter";
 import BackgroundCircles from "./BackgroundCircles";
+import Link from 'next/link';
 
 type Props = {}
 
@@ -21,7 +21,7 @@ export default function Hero({}: Props) {
         <BackgroundCircles />
         <img
             className="relative rounded-full h-32 w-32 mx-auto object-cover"
-            src="https://fsa.zobj.net/crop.php?r=mB3ArsJ-XHahCiZbHJB6SlDdO2-n3GhN48Wiojplu8tajes0TR5zfDZDc0kmKAmSGH9twEFoqxeLtxa7UkfPRMbpQLwTyIZ-xVkOnzh3zO_h3g8f7WDwzAhhXU5kpp8iiFV_YmAr0xpmwUeGZ-G-R_6jtWslR8wVC8nuUyr6YX1CzkQyrEmnOHGIyM4"
+            src="https://i.ibb.co/2vqYKYG/saitama-avatar.png"
             alt=""
         />
         <div className="z-20">
